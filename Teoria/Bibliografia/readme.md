@@ -1,7 +1,11 @@
 ## Bibliografía
-[**Sistemas Operativos**][Stalling] Wiliam Stallings.
+---
+[**Sistemas Operativos**][Stalling] William Stallings.
+
 [**Sistemas Operativos**][Carretero] Jesús Carretero Pérez.
-[**Funadamentos de Sistemas Operativos**][Sil] Silberschatz Galbin Gagne
+
+[**Fundamentos de Sistemas Operativos**][Sil] Silberschatz Galbin Gagne.
+
 
 [Stalling]:https://drive.google.com/open?id=0B0LFWEqa9SDkVkRHakdHTzk2RTQ
 [Carretero]:https://drive.google.com/file/d/0B0LFWEqa9SDkNGtERnR1QUFJMDg/view?usp=sharing
