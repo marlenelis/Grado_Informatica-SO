@@ -1,6 +1,6 @@
 ## Bibliografía
 ---
-[**Sistemas Operativos**][Stalling] William Stallings.
+[**Sistemas Operativos**][Stalling] William Stallings 5ta edición.
 
 [**Sistemas Operativos**][Carretero] Jesús Carretero Pérez.
 
