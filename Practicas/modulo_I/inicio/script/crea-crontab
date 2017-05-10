@@ -1,0 +1,8 @@
+#! /bin/bash
+#Nombre: crea-crontab
+#Autor: Marlene Vásquez
+#Genera el archivo crontab-reducelista
+echo "SHELL=/bin/sh" > ~/SO/crontab-reducelista
+
+echo "PATH=$PATH:$HOME/SO">>~/SO/crontab-reducelista
+echo "0-59 * * * * ~/SO/reducelista " >> ~/SO/crontab-reducelista

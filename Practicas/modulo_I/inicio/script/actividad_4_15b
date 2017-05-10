@@ -1,0 +1,5 @@
+#Nombre: actividad_4_15b.sh
+#Autor: Marlene Vásquez
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+* * * * * /root/SO/actividad_4_15a.sh

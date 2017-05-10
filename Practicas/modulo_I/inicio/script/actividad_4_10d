@@ -1,0 +1,10 @@
+#Nombre: actividad_4.6d.sh
+# autor: Marlene Vásquez
+SHELL=/bin/sh
+PATH=/root/SO:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin
+
+#minuto hora día-del-mes mes , día-de-la-semana orden
+* * * * * ~/SO/actividad_4_10a.sh
+* * * * * ~/SO/actividad_4_10c.sh
+* * * * * ~/SO/reducelista.sh
+40 * * * * ~/SO/actividad_4_12.sh
