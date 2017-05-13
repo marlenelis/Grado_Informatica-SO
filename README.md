@@ -13,21 +13,18 @@
 ## Temario de prácticas: 
 
 1. [**Módulo 1.**][1P] Administración de sistemas operativos:
-..1. Herramientas básicas de administración.
-..2. Monitorización del sistema.
-..3. Automatización de tareas
+1.1 Herramientas básicas de administración.
+1.2 Monitorización del sistema.
+1.3 Automatización de tareas
 
 2. [**Módulo 2.**][2P] Uso de los servicios del sistema operativos mediante la API:
-..1. Gestión y comunicación de procesos.
-..2. Manejo de archivos y directorios.
-..3. Archivos proyectados en memoria.
-..4. Gestión de memoria y tiempo.
+2.1 Gestión y comunicación de procesos.
+2.2 Manejo de archivos y directorios.
+2.3 Archivos proyectados en memoria.
+2.4 Gestión de memoria y tiempo.
 
 ________________
  [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-
-
 
 [//]:#(Prácticas)
 [1P]:https://github.com/marlenelis/Grado_Informatica-SO/tree/master/Practicas/modulo_I/
