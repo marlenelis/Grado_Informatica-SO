@@ -12,15 +12,15 @@
 
 ## Temario de prácticas: 
 
-1. [**Módulo 1.**][1P] Administración de sistemas operativos:
+[**Módulo 1.**][1P] Administración de sistemas operativos:
 
-..1.1 Herramientas básicas de administración.
+ 1.1 Herramientas básicas de administración.
 
-..1.2 Monitorización del sistema.
+ 1.2 Monitorización del sistema.
 
-..1.3 Automatización de tareas
+ 1.3 Automatización de tareas
 
-2. [**Módulo 2.**][2P] Uso de los servicios del sistema operativos mediante la API:
+[**Módulo 2.**][2P] Uso de los servicios del sistema operativos mediante la API:
 
 2.1 Gestión y comunicación de procesos.
 
