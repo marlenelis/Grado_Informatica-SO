@@ -1,0 +1,9 @@
+ayuda ubuntu:16
+
+- se han creado ficheros tipo .fuse_hidden000000000*
+
+se ejecuta 
+
+lsof archivo 
+
+y se puede ver que procesos estan reteniendo el identificador del fichero abierto
