@@ -1,4 +1,4 @@
-##  Sistemas Operativos (SO)
+#  Sistemas Operativos (SO)
 
 ## Temario de teoría:
 - **Tema 1.** Estructuras de sistemas operativos. 
